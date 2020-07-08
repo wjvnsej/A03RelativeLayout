@@ -1,0 +1,2 @@
+rootProject.name='A03RelativeLayout'
+include ':app'
